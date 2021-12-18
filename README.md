@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @primissco
-- 👀 I’m interested in web development and writing simple scripts with python
-- 🌱 I’m currently learning cryptography with python
+- 👀 I’m interested in web development and writing simple scripts with Python
+- 🌱 I’m currently learning cryptography with Python
 - 📫 How to reach me: hello@primiss.co or via Twitter
 
 <!---
