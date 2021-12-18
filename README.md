@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @primissco
 - 👀 I’m interested in web development and writing simple scripts with python
-- 🌱 I’m currently learning cryptography with python.
-- 📫 How to reach me: hello@primiss.co
+- 🌱 I’m currently learning cryptography with python
+- 📫 How to reach me: hello@primiss.co or via Twitter
 
 <!---
 primissco/primissco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
