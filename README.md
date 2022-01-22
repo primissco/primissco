@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @primissco
-- 👀 I’m interested in GNU/Linux, network management and online security & privacy
+- 👀 I’m interested in FOSS, GNU/Linux (artix btw), network management and online security & privacy
 - 🌱 I’m currently learning web development and Python
 - 📫 How to reach me: hello@primiss.co or via Twitter
 
