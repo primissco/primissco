@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @primissco
-- 👀 I’m interested in FOSS, keeping security and privacy online and self hosting applications for daily use
-- 🌱 I’m currently learning Python, Penetration Testing and GNU/Linux
+- 👀 I’m interested in FOSS and online security and privacy
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: `primissco#9137` on Discord
 
 <!---
